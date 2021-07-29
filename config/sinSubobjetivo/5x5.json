@@ -1,0 +1,54 @@
+{
+    
+    "MAX_MOVIMIENTOS": 1000,
+    "visualizar": true,
+    "delay": 50,
+    "incluir_delay": 180,
+    "tam_matrix": [
+        5,
+        5
+    ],
+    "tam_casilla": 35,
+    "objetivos": [
+        [
+            4,
+            4
+        ]
+    ],
+    "obstaculos": [
+        [
+            0,
+            1
+        ],
+        [
+            1,
+            1
+        ],
+        [
+            2,
+            1
+        ],
+        [
+            1,
+            2
+        ],
+        [
+            1,
+            3
+        ]
+    ],
+    "trampas":[
+        [
+            4,
+            3
+        ],
+        [
+            4,
+            0
+        ],
+        [
+            2,
+            4
+        ]
+    ]
+}

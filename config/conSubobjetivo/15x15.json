@@ -1,0 +1,38 @@
+{
+    "MAX_MOVIMIENTOS": 5000,
+    "visualizar": true,
+    "delay": 0,
+    "tam_matrix": [
+        15,
+        15
+    ],
+    "tam_casilla": 35,
+    "objetivos": [
+        [
+            9,
+            0
+        ],
+        [
+            5,
+            0
+        ]
+    ],
+    "obstaculos": [
+        [
+            5,
+            5
+        ],
+        [
+            2,
+            1
+        ],
+        [
+            2,
+            4
+        ],
+        [
+            9,
+            8
+        ]
+    ]
+}
